@@ -146,7 +146,7 @@ public class Main {
             case 3:
             System.out.println("Certo");
             break;
-            
+
             case 4:
             System.out.println("Errado");
             break;
